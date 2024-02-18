@@ -1,6 +1,5 @@
 # XOChallenge
- Tic Tac Toe Web App
-Description:
+Tic Tac Toe Web App
 This is a simple two-player Tic Tac Toe game implemented using HTML, CSS, and JavaScript. The game features a responsive design, with a colorful display where "X" cells are red, and "O" cells are green. It has been converted into a web app using WebIntoApp for easy access.
 
 Features:
